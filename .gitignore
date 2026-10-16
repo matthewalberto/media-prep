@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+
+# Keep recordings out of version control.
+*.mp4
+*.mov
+*.mkv
+*.m4a
+*.wav
+*.mp3
+*.log
+*.log.mbtree

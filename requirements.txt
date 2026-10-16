@@ -1,0 +1,2 @@
+# No Python packages needed. media_prep.py uses the standard library only.
+# It needs ffmpeg and ffprobe on PATH: https://ffmpeg.org/download.html
